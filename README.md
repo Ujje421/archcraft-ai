@@ -1,8 +1,15 @@
-# System Design Engineering Platform
+# ⚡ ArchCraft (`archcraft-ai`)
 
 > **AI-native system architecture platform for designing, understanding, evaluating, and evolving software systems.**
 
-Design systems. Understand trade-offs. Build better architectures.
+Design systems. Understand trade-offs. Simulate failure. Build better architectures.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Ujje421%2Farchcraft--ai-181717?logo=github)](https://github.com/Ujje421/archcraft-ai)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![React](https://img.shields.io/badge/Frontend-React%20%2B%20TS-61DAFB.svg?logo=react&logoColor=black)](https://react.dev)
+[![React Flow](https://img.shields.io/badge/Canvas-React%20Flow-FF0072.svg)](https://reactflow.dev)
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL%20%2B%20pgvector-336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ---
 
@@ -74,8 +81,8 @@ All architecture documents are in the [`docs/`](./docs/) directory:
 
 ```bash
 # Clone
-git clone https://github.com/your-org/systemdesign.git
-cd systemdesign
+git clone https://github.com/Ujje421/archcraft-ai.git
+cd archcraft-ai
 
 # Backend
 cd backend
